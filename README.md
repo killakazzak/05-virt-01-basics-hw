@@ -51,6 +51,7 @@ Git — система контроля версий;
 tree — утилита для просмотра дерева директорий;
 tmux — терминальный мультиплексор.
 ```
+![image](https://github.com/user-attachments/assets/8db825f6-f812-40fa-9ff4-28af5a001e10)
 
 
 
